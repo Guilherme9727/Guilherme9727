@@ -55,5 +55,5 @@ Meu foco atual é o **desenvolvimento backend com Java**, sem deixar de explorar
 - Transformando exercícios acadêmicos em projetos documentados
 - 
 ## Contato
-LinkedIn: (https://www.linkedin.com/in/guilhermecqgomes/)
+LinkedIn: https://www.linkedin.com/in/guilhermecqgomes/
 E-mail: gomes.guilherme38@hotmail.com
