@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="140" viewBox="0 0 360 140">
+<rect x="2" y="2" width="356" height="136" rx="18" fill="#111817" stroke="#2dd4bf" stroke-width="2"/>
+<rect x="22" y="24" width="58" height="58" rx="14" fill="#142321"/>
+<g fill="#5eead4"><rect x="36" y="55" width="7" height="16"><animate attributeName="height" values="16;30;16" dur="2.4s" repeatCount="indefinite"/><animate attributeName="y" values="55;41;55" dur="2.4s" repeatCount="indefinite"/></rect><rect x="48" y="45" width="7" height="26"><animate attributeName="height" values="26;13;26" dur="2.4s" repeatCount="indefinite"/><animate attributeName="y" values="45;58;45" dur="2.4s" repeatCount="indefinite"/></rect><rect x="60" y="35" width="7" height="36"/></g>
+<text x="100" y="43" fill="#5eead4" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">EIXO COMPLEMENTAR</text>
+<text x="100" y="68" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Dados &amp; BI</text>
+<text x="22" y="111" fill="#91a89b" font-family="Segoe UI,Arial,sans-serif" font-size="14">SQL • Power Query • Power BI</text>
+</svg>
