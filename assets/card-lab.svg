@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="140" viewBox="0 0 360 140">
+<rect x="2" y="2" width="356" height="136" rx="18" fill="#1b1710" stroke="#f59e0b" stroke-width="2"/>
+<rect x="22" y="24" width="58" height="58" rx="14" fill="#292015"/>
+<path d="M39 65 L60 44 M42 42 L62 62" stroke="#fbbf24" stroke-width="5" stroke-linecap="round"/>
+<text x="100" y="43" fill="#fbbf24" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">PRÁTICA</text>
+<text x="100" y="68" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Oficina de projetos</text>
+<text x="22" y="111" fill="#b3a28a" font-family="Segoe UI,Arial,sans-serif" font-size="14">Construir • testar • documentar</text>
+<path d="M310 108 H333" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"><animate attributeName="stroke-dasharray" values="0 30;30 0" dur="1.8s" repeatCount="indefinite"/></path>
+</svg>
