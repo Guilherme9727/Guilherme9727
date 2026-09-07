@@ -1,28 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Guilherme Quirino</title>
-  <desc id="desc">Desenvolvimento Backend Java, Dados e Business Intelligence</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Guilherme Quirino — de processos a sistemas</title>
+  <desc id="desc">Identidade visual representando a trajetória de processos administrativos para código, sistemas e dados.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#07111f"/>
-      <stop offset="48%" stop-color="#123b67"/>
-      <stop offset="100%" stop-color="#5b2da8"/>
+      <stop offset="0%" stop-color="#090d0b"/>
+      <stop offset="100%" stop-color="#111a16"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="100%" stop-color="#a78bfa"/>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="55%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#2dd4bf"/>
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
   </defs>
-  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
-  <circle cx="1090" cy="40" r="170" fill="#7c3aed" opacity=".18"/>
-  <circle cx="90" cy="280" r="155" fill="#0ea5e9" opacity=".16"/>
-  <path d="M0 242 C260 198 430 295 700 242 S1000 190 1200 226 V300 H0Z" fill="#050b14" opacity=".55"/>
-  <path d="M0 247 C260 203 430 300 700 247 S1000 195 1200 231" fill="none" stroke="url(#accent)" stroke-width="3" opacity=".8"/>
-  <text x="600" y="118" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="1">GUILHERME QUIRINO</text>
-  <rect x="385" y="141" width="430" height="3" rx="2" fill="url(#accent)" filter="url(#glow)"/>
-  <text x="600" y="185" text-anchor="middle" fill="#dbeafe" font-family="Segoe UI,Arial,sans-serif" font-size="22">Backend Java • Dados &amp; BI • Automação</text>
-  <text x="600" y="222" text-anchor="middle" fill="#a5c8ed" font-family="Consolas,monospace" font-size="16">&lt; construindo soluções, uma versão por vez /&gt;</text>
+
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <rect x="0" y="0" width="12" height="340" rx="6" fill="#f59e0b"/>
+  <path d="M735 73 H1090 M735 251 H1090" stroke="#27332d" stroke-width="1"/>
+  <path d="M750 171 H1080" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+
+  <rect x="58" y="52" width="132" height="132" rx="24" fill="#101a15" stroke="#34d399" stroke-width="2"/>
+  <text x="124" y="138" text-anchor="middle" fill="#6ee7b7" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="800">GQ</text>
+  <circle cx="174" cy="69" r="7" fill="#f59e0b"/>
+
+  <text x="58" y="230" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="700">Guilherme Quirino</text>
+  <text x="60" y="269" fill="#9fb7aa" font-family="Segoe UI,Arial,sans-serif" font-size="21">de processos a sistemas</text>
+  <text x="60" y="302" fill="#647a6e" font-family="Consolas,monospace" font-size="15">aprender  •  construir  •  documentar</text>
+
+  <g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <circle cx="755" cy="171" r="28" fill="#1c1710" stroke="#f59e0b" stroke-width="2"/>
+    <text x="755" y="165" fill="#fbbf24" font-size="12" font-weight="700">01</text>
+    <text x="755" y="186" fill="#f8fafc" font-size="11">PROCESSOS</text>
+
+    <circle cx="862" cy="171" r="28" fill="#101914" stroke="#6ee7b7" stroke-width="2"/>
+    <text x="862" y="165" fill="#6ee7b7" font-size="12" font-weight="700">02</text>
+    <text x="862" y="186" fill="#f8fafc" font-size="11">CÓDIGO</text>
+
+    <circle cx="969" cy="171" r="28" fill="#101918" stroke="#5eead4" stroke-width="2"/>
+    <text x="969" y="165" fill="#5eead4" font-size="12" font-weight="700">03</text>
+    <text x="969" y="186" fill="#f8fafc" font-size="11">SISTEMAS</text>
+
+    <circle cx="1076" cy="171" r="28" fill="#10191a" stroke="#22d3ee" stroke-width="2"/>
+    <text x="1076" y="165" fill="#67e8f9" font-size="12" font-weight="700">04</text>
+    <text x="1076" y="186" fill="#f8fafc" font-size="11">DADOS</text>
+  </g>
+
+  <text x="916" y="109" text-anchor="middle" fill="#9fb7aa" font-family="Consolas,monospace" font-size="16">BACKEND JAVA + DADOS &amp; BI</text>
+  <text x="916" y="229" text-anchor="middle" fill="#647a6e" font-family="Segoe UI,Arial,sans-serif" font-size="15">uma trajetória em construção</text>
 </svg>
